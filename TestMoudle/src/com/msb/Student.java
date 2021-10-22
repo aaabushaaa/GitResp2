@@ -2,6 +2,8 @@ package com.msb;
 
 import jdk.swing.interop.SwingInterOpUtils;
 
+import java.awt.*;
+
 /**
  * @Auther: timliu
  * @Date: 2021/10/22 - 10 - 22 - 15:05
@@ -11,5 +13,7 @@ import jdk.swing.interop.SwingInterOpUtils;
 public class Student {
     public static void main(String[] args) {
         System.out.println("哈哈哈哈哈");
+        System.out.println("15");
+
     }
 }
